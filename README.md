@@ -9,7 +9,6 @@ This is a Python application built with Tkinter that provides a convenient way t
 - Utilizes the pyshorteners library to perform URL shortening.
 - Copy and share shortened URLs with ease.
 
-![Screenshot](screenshot.png)
 
 ## Prerequisites
 
